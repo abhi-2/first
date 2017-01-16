@@ -1,0 +1,6 @@
+li a {
+    color: green;
+}
+body {
+    background: white url("https://avatars1.githubusercontent.com/u/15127027?v=3&s=400") no-repeat right bottom;
+}
